@@ -53,7 +53,7 @@ Before running the application, ensure you have the following:
 4. Start the development server:
    npm start
 
-5. Open your browser and visit http://localhost:3000 to view the IPO Market Dashboard.
+5. Open your browser to view the IPO Market Dashboard.
 
 ### USAGE
 
